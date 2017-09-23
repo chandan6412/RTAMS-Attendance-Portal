@@ -1,1 +1,0 @@
-# RTAMS-Attendance-Portal
